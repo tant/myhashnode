@@ -29,7 +29,7 @@ Dưới đây là những đề xuất cụ thể để giải quyết tình hu�
 
 ### Yêu cầu đối tác giải thích rõ ràng hơn:
 
-* Đề nghị Project Champion mạnh dạn yêu cầu: "Xin vui lòng giải thích vấn đề này bằng ngôn ngữ đơn giản, dễ hiểu cho người không chuyên về kỹ thuật. Có thể dùng ví dụ thực tế hoặc so sánh với điều gì đó quen thuộc được không?"
+* Project Champion có thể yêu cầu: "Xin vui lòng giải thích vấn đề này bằng ngôn ngữ đơn giản, dễ hiểu cho người không chuyên về kỹ thuật. Có thể dùng ví dụ thực tế hoặc so sánh với điều gì đó quen thuộc được không?"
     
 * Hỏi cụ thể: "Tại sao yêu cầu này lại là một hạn chế kỹ thuật? Nó ảnh hưởng đến những gì (ví dụ: hiệu suất, khả năng nâng cấp, chi phí, thời gian)?"
     
@@ -72,7 +72,7 @@ Trong trường hợp có những bất đồng quan điểm nghiêm trọng ho�
 
 Người này sẽ đóng vai trò trung gian, "phiên dịch" giữa ngôn ngữ kinh doanh và kỹ thuật, đánh giá khách quan các giải thích của nhà cung cấp, và có thể đề xuất các giải pháp thay thế hoặc cách tiếp cận khác.
 
-## 4\. Tập trung vào giải pháp yhay thế và điều chỉnh quy trình:
+## 4\. Tập trung vào giải pháp thay thế và điều chỉnh quy trình:
 
 ### Ưu tiên tận dụng tối đa tính năng tiêu chuẩn:
 
