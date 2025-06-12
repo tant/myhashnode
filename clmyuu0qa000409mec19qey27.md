@@ -71,7 +71,7 @@ Cái này rất có ích với user để có những hướng dẫn rõ ràng, 
 
 ### Ghi xuống các thông tin phát sinh và thu thập tất cả issue được phát hiện
 
-Dùng excel hay gì cũng được nhưng giờ thường là dùng các hệ thống bug tracking hơn. Quan trọn glà nó phải phân loại được issue nằm ở đâu kèm theo các ý kiến của user về mức độ ưu tiên. Nó sẽ giúp đội dự án bố trí ưu tiên fix cái nào trước cái nào sau
+Dùng excel hay gì cũng được nhưng giờ thường là dùng các hệ thống bug tracking hơn. Quan trọng là nó phải phân loại được issue nằm ở đâu kèm theo các ý kiến của user về mức độ ưu tiên. Nó sẽ giúp đội dự án bố trí ưu tiên fix cái nào trước cái nào sau
 
 ## Quản lý kết quả UAT
 
