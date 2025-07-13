@@ -5,6 +5,7 @@ seoDescription: "Email của bạn đang vào thư mục spam? Khám phá lộ t
 datePublished: Sun Jul 13 2025 15:03:54 GMT+0000 (Coordinated Universal Time)
 cuid: cmd1t1ope000102jvamy83zvm
 slug: ke-hoach-toi-uu-kha-nang-gui-mail-cho-ten-mien-moi
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/D2TZ-ashGzc/upload/af261e2d074ce122ff072cd361c797fc.jpeg
 tags: email-marketing
 
 ---
