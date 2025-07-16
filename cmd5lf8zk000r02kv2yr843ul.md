@@ -1,8 +1,8 @@
 ---
-title: "Host web trên vercel"
+title: "Chọn domain và redirect khi host web trên vercel"
 datePublished: Wed Jul 16 2025 06:41:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmd5lf8zk000r02kv2yr843ul
-slug: host-web-tren-vercel
+slug: chon-domain-va-redirect-khi-host-web-tren-vercel
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zs98a0DtKL4/upload/a863978ad0ab40b2f93d9c4e669972f1.jpeg
 
 ---
