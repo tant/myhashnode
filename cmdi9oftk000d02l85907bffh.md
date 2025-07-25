@@ -1,8 +1,8 @@
 ---
-title: "Chuẩn bị ra mắt ứng dụng? Đây là chiến lược 3 giai đoạn để tuân thủ toàn diện"
+title: "Chiến lược 3 giai đoạn để tuân thủ toàn diện cho web"
 datePublished: Fri Jul 25 2025 03:33:48 GMT+0000 (Coordinated Universal Time)
 cuid: cmdi9oftk000d02l85907bffh
-slug: chuan-bi-ra-mat-ung-dung-day-la-chien-luoc-3-giai-doan-de-tuan-thu-toan-dien
+slug: chien-luoc-3-giai-doan-de-tuan-thu-toan-dien-cho-web
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/U5y077qrMdI/upload/de7f07b0e34824a94593913f81010b55.jpeg
 tags: pci-dss, wcag, gdpr, ccpa, quyen-rieng-tu-du-lieu, bao-mat-thanh-toan, tuan-thu
 
