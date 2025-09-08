@@ -1,8 +1,8 @@
 ---
-title: "Hành Trình Xây Dựng Trợ Lý AI: Một Câu Chuyện Thực Tế"
+title: "Hành trình xây dựng trợ lý AI"
 datePublished: Sun Sep 07 2025 12:01:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmf9n7e3k000302iae7jz1v7f
-slug: hanh-trinh-xay-dung-tro-ly-ai-mot-cau-chuyen-thuc-te
+slug: hanh-trinh-xay-dung-tro-ly-ai
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Y_LgXwQEx2c/upload/9938767a88418267e7b0f0cc59dccdc1.jpeg
 tags: ai-for-business, ai-misconceptions
 
@@ -15,7 +15,7 @@ tags: ai-for-business, ai-misconceptions
 * **Chị An:** Chuyên gia tư vấn AI, người có kinh nghiệm thực chiến trong việc triển khai các giải pháp dữ liệu và AI cho doanh nghiệp.
     
 
-#### **Màn 1: Giấc Mơ Lớn**
+#### **Màn 1: Giấc mơ lớn**
 
 Trong phòng họp sang trọng của FutureCorp, anh Minh trình bày slide cuối cùng với một biểu đồ tăng trưởng dốc đứng. "Và đây," anh tuyên bố hùng hồn, "là tương lai của chúng ta: 'Minh Tuệ', một AI Agent sẽ thay đổi toàn bộ ngành dịch vụ khách hàng. Nó sẽ hiểu mọi tài liệu, quy trình của công ty và trả lời khách hàng ngay lập tức."
 
