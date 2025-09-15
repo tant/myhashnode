@@ -3,6 +3,7 @@ title: "Sự trỗi dậy của việc phát triển ứng dụng có trách nhi
 datePublished: Mon Sep 15 2025 04:05:09 GMT+0000 (Coordinated Universal Time)
 cuid: cmfklp28q000102la7g21f6sx
 slug: su-troi-day-cua-viec-phat-trien-ung-dung-co-trach-nhiem
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9CRd1J1rEOM/upload/2503ebcd8b62667ea831fa2fd04d72fa.jpeg
 
 ---
 
