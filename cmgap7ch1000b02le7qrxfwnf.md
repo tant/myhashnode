@@ -27,7 +27,7 @@ Trước khi hiểu "hỏi thế nào" thì cần tin "tại sao phải hỏi". 
     
 * Để trở thành nhà tư vấn tận tâm: Một bác sĩ giỏi không bao giờ kê đơn khi chưa khám bệnh kỹ lưỡng. Tương tự, bạn không thể thiết kế một giải pháp công nghệ xuất sắc nếu không biết giới hạn về nguồn lực của khách hàng. Trong đó ngân sách chính là một "thông số kỹ thuật" quan trọng của dự án.
     
-* Để định hình và đề xuất giải pháp khả thi: Cùng một yêu cầu "xây dựng sitethương mại điện tử", nhưng: Với ngân sách $25,000, đó sẽ là một trang MVP với các tính năng mua/bán cơ bản. Với ngân sách $250,000, đó có thể là một hệ thống phức tạp với AI gợi ý sản phẩm, phân tích dữ liệu lớn và tích hợp đa kênh.
+* Để định hình và đề xuất giải pháp khả thi: Cùng một yêu cầu "xây dựng site thương mại điện tử", nhưng: Với ngân sách $25,000, đó sẽ là một trang MVP với các tính năng mua/bán cơ bản. Với ngân sách $250,000, đó có thể là một hệ thống phức tạp với AI gợi ý sản phẩm, phân tích dữ liệu lớn và tích hợp đa kênh.
     
 
 Ngân sách quyết định quy mô, công nghệ và lộ trình của sản phẩm. Tư duy cốt lõi cần khắc ghi: *“Tôi hỏi về ngân sách không phải để xem anh có bao nhiêu tiền, mà là để cùng anh tìm ra giải pháp tốt nhất với số tiền anh dự định đầu tư.”*
