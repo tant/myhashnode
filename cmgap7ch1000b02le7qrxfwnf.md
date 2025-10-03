@@ -65,7 +65,7 @@ Ví dụ thực tế (Project-based): Khách hàng muốn làm website thương 
     * Gói Toàn Diện (trên $70,000): Sẽ là một giải pháp hoàn chỉnh với module phân tích hành vi khách hàng và các tính năng tự động hóa marketing. Anh cảm thấy phương án nào đang gần nhất với định hướng của mình ạ?"
         
 
-Ví dụ thực tế (Staffing): Khách hàng có ngân sách cố định $5,000/tháng.
+Ví dụ thực tế (Staffing): Khách hàng nói ngân sách cố định $5,000/tháng và hỏi có thể cung cấp được ai với số tiền đó.
 
 * Bạn: "Với ngân sách $5,000/tháng, em xin đưa ra 2 phương án tối ưu để mình lựa chọn:
     
@@ -89,7 +89,7 @@ Ví dụ về một dự án project based
 
 Khi khách hàng nghĩ về ROI (Tỷ suất hoàn vốn), họ sẽ dễ dàng hơn trong việc định hình một con số đầu tư hợp lý. Nếu họ nói "kỳ vọng tiết kiệm $100,000/năm", bạn có thể dễ dàng đề xuất một khoản đầu tư $50,000.
 
-# Một vài ca khó
+# Một vài ca hay gặp
 
 Một vài tình huống bạn có thể gặp phải nên hãy chuẩn bị trước để khi cần thì dùng
 
