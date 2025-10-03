@@ -8,7 +8,7 @@ tags: sales, budget, bant
 
 ---
 
-Chữ B trong BANT là một bức tường vô hình làm nhiều anh em sales chùn bước. Sợ bị coi là kẻ chỉ chăm chăm vào tiền bạc, sợ mất lòng khách, sợ bị lắc đầu từ chối.
+Chữ B trong [BANT](https://blog.tantran.dev/cach-bant-giup-danh-gia-lead-va-chot-deal) là một bức tường vô hình làm nhiều anh em sales chùn bước. Sợ bị coi là kẻ chỉ chăm chăm vào tiền bạc, sợ mất lòng khách, sợ bị lắc đầu từ chối.
 
 Thật ra khi bán hàng bạn phải tụng “ngân sách là bạn của bạn và của cả khách hàng”, không bàn tới ngân sách thì chỉ có rủi ro và thất bại nhất là khi bạn bán dịch vụ, giải pháp gia công phần mềm. Dự án phần mềm là cái mà chưa ai hình dung kĩ càng lúc giao dịch và chỉ biết tới khi xong. Và rủi ro là có nhiều kiểu xong như hết tiền giữa chừng, hết thời gian, hoặc may mắn là thành công trong ngân sách và thời gian mong đợi.
 
